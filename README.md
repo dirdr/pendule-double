@@ -1,6 +1,6 @@
 # pendule-double
 
-![alt text](https://github.com/dirdr/pendule-double/blob/master/Screenshot_1.png.jpg?raw=true)
+![alt text](https://github.com/dirdr/pendule-double/blob/master/Screenshot_1.png?raw=true)
 
 
 install:
