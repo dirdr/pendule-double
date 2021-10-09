@@ -9,6 +9,6 @@ install:
 
 launch:
 
-cd pendule-double
+`cd pendule-double
 
-python main.py
+python main.py`
