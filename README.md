@@ -1,4 +1,4 @@
-# pendule-double
+# simulation d'un pendule double avec pygame
 
 ![alt text](https://github.com/dirdr/pendule-double/blob/master/Screenshot_1.png?raw=true)
 
