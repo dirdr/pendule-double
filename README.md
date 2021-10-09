@@ -5,7 +5,9 @@
 
 install:
 
-git clone https://github.com/dirdr/pendule-double
+`git clone https://github.com/dirdr/pendule-double`
+
+launch:
 
 cd pendule-double
 
